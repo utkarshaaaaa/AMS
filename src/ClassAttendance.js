@@ -40,7 +40,7 @@ export default function () {
               console.log(res.data);
             })
             .catch((err) => {
-              console.log(err);
+              console.log(err)
             });
         }
       };
